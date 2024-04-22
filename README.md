@@ -1,2 +1,2 @@
 # Cat Photos
-A simple website that display cat photos from an API
+A simple website that displays cat photos from an API
